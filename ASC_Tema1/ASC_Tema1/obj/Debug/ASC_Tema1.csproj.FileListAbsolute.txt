@@ -1,0 +1,7 @@
+C:\Users\Darius\source\repos\ASC2020\ASC_Tema1\ASC_Tema1\obj\Debug\ASC_Tema1.csprojAssemblyReference.cache
+C:\Users\Darius\source\repos\ASC2020\ASC_Tema1\ASC_Tema1\obj\Debug\ASC_Tema1.csproj.CoreCompileInputs.cache
+C:\Users\Darius\source\repos\ASC2020\ASC_Tema1\ASC_Tema1\bin\Debug\ASC_Tema1.exe.config
+C:\Users\Darius\source\repos\ASC2020\ASC_Tema1\ASC_Tema1\bin\Debug\ASC_Tema1.exe
+C:\Users\Darius\source\repos\ASC2020\ASC_Tema1\ASC_Tema1\bin\Debug\ASC_Tema1.pdb
+C:\Users\Darius\source\repos\ASC2020\ASC_Tema1\ASC_Tema1\obj\Debug\ASC_Tema1.exe
+C:\Users\Darius\source\repos\ASC2020\ASC_Tema1\ASC_Tema1\obj\Debug\ASC_Tema1.pdb
