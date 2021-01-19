@@ -1,23 +1,22 @@
 ﻿using System;
 
-namespace Ex7
+namespace Ex8
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a, b; string line;
+            int a, b;
+            string line;
             line = Console.ReadLine();
             a = int.Parse(line);
-
             line = Console.ReadLine();
             b = int.Parse(line);
-            int c = b;
-            b = a;
-            a = c;
+                
+            a = a * b;       
+            b = a / b;      
+            a = a / b;
             Console.WriteLine(a + " " + b);
-
-
         }
     }
 }
